@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "AzureCloudService-storage", "AzureCloudService-storage\AzureCloudService-storage.ccproj", "{9DC93E03-6A36-41FA-A2CE-E7B53A52664E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebRole1", "MvcWebRole1\MvcWebRole1.csproj", "{5CEF3F04-EC20-4EF1-B8E3-ABD77D995DD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DC93E03-6A36-41FA-A2CE-E7B53A52664E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DC93E03-6A36-41FA-A2CE-E7B53A52664E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DC93E03-6A36-41FA-A2CE-E7B53A52664E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DC93E03-6A36-41FA-A2CE-E7B53A52664E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CEF3F04-EC20-4EF1-B8E3-ABD77D995DD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEF3F04-EC20-4EF1-B8E3-ABD77D995DD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEF3F04-EC20-4EF1-B8E3-ABD77D995DD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEF3F04-EC20-4EF1-B8E3-ABD77D995DD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
